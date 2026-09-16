@@ -21,7 +21,45 @@ purpose, commercial or non-commercial.
 Unauthorized use, reproduction, or distribution of this material may
 result in legal action.
 
+---
 
-| Curso | Instituição | Data | Link |
+## Overview
+
+This repository serves as a personal, verifiable archive of course completion
+certificates, organized by category.
+
+---
+
+## Cybersecurity
+
+| Course | Institution | Year | Certificate |
 |---|---|---|---|
-| Claude 101 | Anthropic | 2026 | [certificado](claude101_certificate.png) |
+| — | — | — | — |
+
+## Programming
+
+| Course | Institution | Year | Certificate |
+|---|---|---|---|
+| — | — | — | — |
+
+## Artificial Intelligence & Tools
+
+| Course | Institution | Year | Certificate |
+|---|---|---|---|
+| Claude 101 | Anthropic | 2026 | [View certificate](claude101_certificate.png) |
+
+## Languages
+
+| Course | Institution | Year | Certificate |
+|---|---|---|---|
+| — | — | — | — |
+
+## Other
+
+| Course | Institution | Year | Certificate |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+*Last updated: 2026*
