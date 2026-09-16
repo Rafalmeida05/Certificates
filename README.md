@@ -24,4 +24,4 @@ result in legal action.
 
 | Curso | Instituição | Data | Link |
 |---|---|---|---|
-| Claude 101 | Anthropic | 2026 | [certificado](claude101_certificate.png) |
+| Claude 101 | Anthropic | 2026 | ![certificado](claude101_certificate.png) |
